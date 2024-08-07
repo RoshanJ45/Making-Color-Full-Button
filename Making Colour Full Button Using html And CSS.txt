@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: royalblue;
+        }
+        div {
+            text-align: center;
+        }
+        button {
+            font-size: 30px;
+            margin: 50px;
+            padding: 30px;
+            color: brown;
+            background-color: antiquewhite;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: red;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <button>Roshan Jadhav</button>
+    </div>
+</body>
+</html>
